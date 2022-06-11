@@ -1,0 +1,58 @@
+.isabele {
+    height:100px;
+    background-color: rgb(204, 179, 229);
+    border-radius:30px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+
+
+
+}
+
+.caixa {
+width:300px;
+height:600px;
+background-color:rgb(221, 227, 225);
+border-radius:30px;
+box-shadow:5px 5px 20px(0,0,0,0.);
+position:relative;
+top:20px;
+float:right;
+
+
+
+
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    padding: 40px;
+}
+
+nav ul li{
+    margin: 10px;
+}
+
+.menu2{
+    list-style:none;
+    font-size:x-large;
+    font-family:'comic sans ms'
+}
+
+.caixa2{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    color:white;
+    font-size: xx-large;
+    font-family: 'comic sans';
+}
+
+body{
+    background-image: url(OIP.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
